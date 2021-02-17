@@ -2,5 +2,5 @@
 layout: tei
 title: An example TEI document -- Inscription from Caesarea
 permalink: /tei/
-document: caesarea-example.xml
+document: caesarea_example.xml
 ---
