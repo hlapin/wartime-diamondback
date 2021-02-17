@@ -1,6 +1,6 @@
 ---
 layout: tei
 title: An example TEI document -- Inscription from Caesarea
-permalink: /tei/
+permalink: /caesarea/
 document: caesarea_example.xml
 ---
